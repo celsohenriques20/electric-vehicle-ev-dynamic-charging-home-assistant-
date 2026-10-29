@@ -215,6 +215,7 @@ condition:
           - 'plugged_in'
           - 'Charging'
           - 'CHARGING'
+          - 'EV is charging'
 
 action:
   - variables:
